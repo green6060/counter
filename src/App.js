@@ -17,7 +17,13 @@ class App extends Component {
         </header>
 
         <div>
-          <Counter />
+          <Counter name="Red" />
+          <Counter name="Orange" />
+          <Counter name="Yellow"/>
+          <Counter name="Green"/>
+          <Counter name="Blue"/>
+          <Counter name="Indigo"/>
+          <Counter name="Violet"/>
         </div>
 
       </div>
